@@ -63,5 +63,3 @@ Participants are encouraged to utilize tools of their preference for data analys
 - **Deadline:** 1 week from project initiation.
 
 ---
-
-Feel free to customize this template further, adding specific details about your team, any initial data exploration findings, or additional project requirements. Good luck with your analysis!
